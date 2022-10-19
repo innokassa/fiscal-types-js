@@ -4,8 +4,8 @@
   "description": "Types implementation for Pangaea API v2",
   "author": "Buturlin Vitaliy (Byurrer)",
   "license": "MIT",
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
+  "main": "lib/Index.js",
+  "types": "lib/Index.d.ts",
   "files": ["lib/**/*"],
   "scripts": {
     "test": "jest",
